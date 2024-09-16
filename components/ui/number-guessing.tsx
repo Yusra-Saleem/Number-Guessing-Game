@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 "use client"; // Enables client-side rendering for this component
 
 // Importing necessary hooks and components from React and custom components
