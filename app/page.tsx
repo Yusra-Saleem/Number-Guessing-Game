@@ -1,4 +1,4 @@
-import NumberGuessing from "../components/ui/number-guessing";
+import NumberGuessing from "@/components/ui/number-guessing";
 
 export default function Home() {
   return (
